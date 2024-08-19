@@ -1,0 +1,2 @@
+# euphoria-
+Trick bot
